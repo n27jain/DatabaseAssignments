@@ -8,6 +8,6 @@ This repo contains all of the assignments that I have completed when I took ECE3
 - Used decesion trees to perform Data mining on baseball statistics to determine which player will likely be nominated in the hall of fame and or will actually win a place in the hall of fame.
 - Scrapped relevant data using SQL queries, created and trained classifers using Python, then tested the classifier with a test set of the database.
 
-- Please check out my report as it explains what I had done for the final assignment.
+- Please check out my report as it explains what I had done for the final assignment.https://github.com/n27jain/DatabaseAssignments/blob/main/A4_Data_Mining/sol/report.docx
 
 
